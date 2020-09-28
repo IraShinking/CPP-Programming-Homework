@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1585886962 source:d:\ira\cpp-programming-homework\account.cpp
+	"account.h"
+	<cmath>
+	<iostream>
+
+1585887146 d:\ira\cpp-programming-homework\account.h
+
+1585887094 source:d:\ira\cpp-programming-homework\lab5_3.cpp
+	"account.h"
+	<iostream>
+

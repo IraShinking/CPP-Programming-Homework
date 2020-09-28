@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1585987730 source:d:\ira\cpp-programming-homework\lab4_3\main.cpp
+	<iostream>
+	"Point.h"
+	<cmath>
+
+1585987668 d:\ira\cpp-programming-homework\lab4_3\point.h
+
+1585987666 source:d:\ira\cpp-programming-homework\lab4_3\point.cpp
+	"Point.h"
+	<cmath>
+	<iostream>
+

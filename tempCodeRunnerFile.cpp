@@ -1,0 +1,1 @@
+cmpx[j].show();
